@@ -1,0 +1,6 @@
+body > .container{
+    padding-top: 0;
+}
+.table>tbody>tr>td{
+    vertical-align: middle !important;
+}
